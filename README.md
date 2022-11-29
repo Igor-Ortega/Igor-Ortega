@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Igor-Ortega
 - 👀 I’m interested in Videogames, Programming, Sci-Fi and Astronomy.
 - 🌱 I’m currently learning Javascript and Python.
-- 📫 How to reach me: 
+- 📫 How to reach me:
+      Email: igorortega13@gmail.com
 
 <!---
 Igor-Ortega/Igor-Ortega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
