@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Igor-Ortega
 - 👀 I’m interested in Videogames, Programming, Sci-Fi and Astronomy.
+- 🎓 I'm studying as Specialist in Computer Science 
+- 💀 I hate bullshittery
+- 🎧 I love listen to EDM and similar
 - 🌱 I’m currently learning Javascript and Python.
+- 👓 I'm somewhat capable HTML5 and CSS coder
 - 📫 How to reach me:
       Email: igorortega13@gmail.com
 
